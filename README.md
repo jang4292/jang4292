@@ -13,22 +13,22 @@ facebook games.
 
 
 ### Back-End
-<img src="https://img.shields.io/badge/Node.js-007396?style=flat-square&logo=Node.js&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=while" />&nbsp;
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon%20AWS&&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MySQL-FF69B4?style=flat-square&logo=MySQL&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp;
 
 
 ### SNS
 <a href="https://www.instagram.com/j.in_deagu/">
-    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram"
+    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
         style="height : auto; width=auto; margin-left : 10px; margin-right : 10px;" /> 
 </a>&nbsp;
 <a href="https://github.com/jang4292/">
-    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github"
+    <img src="http://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
 </a>&nbsp;
 <a href="https://blog.naver.com/janghyunki17">
-    <img src="http://img.shields.io/badge/Naver Blog-00D182?style=flat&logo=Emby&logoColor=white"
+    <img src="http://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Emby&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
 </a>&nbsp;
