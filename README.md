@@ -36,7 +36,5 @@ facebook games.
     <img src="http://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Emby&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
 </a>&nbsp;
-
 [![Facebook Badge](http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/Alpha.Jang.0)](https://www.facebook.com/Alpha.Jang.0) 
-
 [![Instagram bn](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/j.in_deagu/)
