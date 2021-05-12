@@ -9,6 +9,7 @@ facebook games.
 
 ### Front-End & Mobile
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />&nbsp;
@@ -24,6 +25,7 @@ facebook games.
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=while" />&nbsp;
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=Amazon%20AWS&&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp;
 
 ### SNS
@@ -35,6 +37,6 @@ facebook games.
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
 </a>&nbsp;
 <a href="https://blog.naver.com/janghyunki17">
-    <img src="http://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Emby&logoColor=white"
+    <img src="http://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
 </a>&nbsp;
