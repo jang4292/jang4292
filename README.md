@@ -4,6 +4,9 @@
 facebook games.
 - 🌱 I’m currently learning manything specially, below.
     * JavaScript, NodeJs, React, React Native, Android, RESTful, GraphQL, Algorithm, etc... I love programming with most of things, I need to know more, I'm into front-end and back-end recently.
+- 🌱 I'm preparing for learning Block Chain without coins. 
+
+
 
 ## Tech stack
 
