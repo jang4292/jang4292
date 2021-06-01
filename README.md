@@ -5,7 +5,7 @@ facebook games.
 - 🌱 I’m currently learning manything specially, below.
     * JavaScript, NodeJs, React, React Native, Android, RESTful, GraphQL, Algorithm, etc... I love programming with most of things, I need to know more, I'm into front-end and back-end recently.
 - 🌱 I'm preparing for learning Block Chain without coins. 
-
+- 🌱 I need to learn cocos2d-x for working in the company to develop 2D mobile games.
 
 
 ## Tech stack
@@ -13,9 +13,10 @@ facebook games.
 ### Front-End & Mobile
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&nbsp;<br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />&nbsp;<br>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />&nbsp;
 
