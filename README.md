@@ -9,6 +9,9 @@ facebook games.
 - 🌱 I'm into javascript rendering and animation too.
 - 🌱 I need to learn cocos2d-x for working in the company to develop 2D mobile games.
 
+ > [Companies list](/CAREER.md)
+
+
 
 ## Tech stack
 
