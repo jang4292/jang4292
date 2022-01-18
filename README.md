@@ -10,7 +10,8 @@ facebook games.
 - 🌱 I need to learn cocos2d-x for working in the company to develop 2D mobile games.
 
  > [Companies list](/CAREER.md)
-
+ 
+ > [Hobbies list](/HOBBIES.md)
 
 
 ## Tech stack
