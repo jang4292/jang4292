@@ -13,6 +13,9 @@ facebook games.
  
  > [Hobbies list](/HOBBIES.md)
 
+Current Live Service
+  - https://apps.facebook.com/slotica_five
+  - https://www.facebook.com/gaming/play/491110406046537/
 
 ## Tech stack
 
