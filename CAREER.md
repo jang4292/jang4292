@@ -1,7 +1,9 @@
-# 2019.07.08. ~ current ( 30 months )
+# 2019.07.08. ~ current ( Over 60 months )
  - Crown Games Inc.(주식회사 크라운게임즈)
  - Developer 
-  > Web Front-end
+  > Front-end
+  > <br>
+  > CoCos Creator 
   > <br>
   > Node Js
 
